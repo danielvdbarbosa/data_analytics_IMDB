@@ -1,2 +1,2 @@
-# data_analytics_IMDB
-learning and practicing data science procedures using IMDB dataset
+# data-analysis-imdb-learning
+Repository to learning about data analysis  from IMDB dataset
